@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="RemoteMappingsManager">
+    <list>
+      <list>
+        <remote-mappings server-id="python@sftp://root@10.10.10.90:20096/root/anaconda3/envs/FL_IGMC/bin/python3.8">
+          <settings>
+            <list>
+              <mapping local-root="$PROJECT_DIR$/Federated-Learning-PyTorch-master" remote-root="/root/work/FL_IGMC" />
+            </list>
+          </settings>
+        </remote-mappings>
+      </list>
+    </list>
+  </component>
+</project>
